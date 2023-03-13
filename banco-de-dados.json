@@ -248,6 +248,27 @@
       "complemento": "",
       "formaPagamento": "dinheiro",
       "id": 9
+    },
+    {
+      "endereco": "Rua dona antonia",
+      "numero": "1231",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 10
+    },
+    {
+      "endereco": "rua don putonio",
+      "numero": "2131",
+      "complemento": "aaa",
+      "formaPagamento": "debito",
+      "id": 11
+    },
+    {
+      "endereco": "aeaedasea",
+      "numero": "12312",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "id": 12
     }
   ]
 }
