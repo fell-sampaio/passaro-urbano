@@ -227,6 +227,27 @@
       "complemento": "",
       "formaPagamento": "dinheiro",
       "id": 6
+    },
+    {
+      "endereco": "Rua jose silva",
+      "numero": "500",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 7
+    },
+    {
+      "endereco": "rua sebastiao",
+      "numero": "5003",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 8
+    },
+    {
+      "endereco": "rua caseli",
+      "numero": "123",
+      "complemento": "",
+      "formaPagamento": "dinheiro",
+      "id": 9
     }
   ]
 }
